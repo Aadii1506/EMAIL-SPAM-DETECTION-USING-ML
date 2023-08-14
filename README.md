@@ -5,6 +5,5 @@ It is used to classify any mail or message to be spam or not
 
 <img width="960" alt="image" src="https://github.com/Aadii1506/EMAIL-SPAM-DETECTION-USING-ML/assets/87804157/8b01ef90-a7d5-470b-9c31-f5904af6ef5f">
 
-![image](https://github.com/Aadii1506/EMAIL-SPAM-DETECTION-USING-ML/assets/87804157/ac831692-4686-4700-b2da-c2235e0bdbf1)
-
+<img width="960" alt="image" src="https://github.com/Aadii1506/EMAIL-SPAM-DETECTION-USING-ML/assets/87804157/1ba4ced9-e1da-4082-8798-76abb9c2c4f3">
 
